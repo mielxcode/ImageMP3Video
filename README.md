@@ -1,2 +1,7 @@
 # ImageMP3Video
-Image + Suno audio (WebM/Opus or MP3) → Video
+
+REM ==========================================================
+REM Simple MP3 + Image → Video
+REM Usage: vidcreator.bat "song.mp3" "cover.jpeg"
+REM ==========================================================
+
